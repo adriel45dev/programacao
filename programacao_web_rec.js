@@ -5,7 +5,6 @@
  * 2 - DOM
  * 3 - FUNÇÕES
  * 4 - OPERADORES DE COMPARAÇÃO (COMPARAÇÃO BOOLEANA)
- *     >, <, !=, ==
  * 5 - OPERADOR CONDICINAL IF...ELSE
  * 6 - ARRAY (LISTA)
  *  6.1 - POP e PUSH
